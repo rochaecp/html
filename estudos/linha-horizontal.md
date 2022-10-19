@@ -1,0 +1,5 @@
+# Linha horizontal:
+
+~~~html
+<hr>
+~~~
